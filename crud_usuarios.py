@@ -1,5 +1,5 @@
 import sqlite3
-#copiasdddd
+#comentario
 def mostrar_menu():
     print("\033[34mTaller CRUD básico en Python y SQLite desde\033[0m\033[44m desktop Ubuntu \033[0m")
     print("\033[34m1. Agregar usuario\033[0m")
